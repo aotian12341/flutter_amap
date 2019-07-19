@@ -1,8 +1,8 @@
 name: flutter_amap
 description: A new Flutter plugin.
 version: 0.0.1
-author:
-homepage:
+author: atom <huobaoqilin@gmail.com>
+homepage: https://github.com/aotian12341/flutter_amap
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
